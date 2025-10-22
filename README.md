@@ -1005,12 +1005,11 @@ This project demonstrates:
 
 ## 📄 License
 
-This project is created for a code challenge demonstration.
+This project is created for a Vodafone code challenge.
 
 ## 👨‍💻 Author
 
-Created as a comprehensive code challenge solution demonstrating professional software engineering practices, advanced architecture patterns, and production-ready implementation.
-
+Ahmed Roshdy
 ---
 
 **Interactive API Documentation**: http://localhost:8000/docs  
