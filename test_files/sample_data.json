@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "user",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson with a very long name that extends far beyond normal naming conventions to test how the system handles extraordinarily long lines of text within JSON files",
+      "email": "bob.johnson@example.com",
+      "role": "moderator",
+      "active": false
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "notifications": true,
+    "language": "en",
+    "timezone": "UTC",
+    "features": ["file_upload", "line_analysis", "caching", "multiple_formats"]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-10-21T00:00:00Z",
+    "description": "This JSON file contains test data for the file upload service. It includes users, settings, and metadata to thoroughly test JSON file processing capabilities.",
+    "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }
+}
